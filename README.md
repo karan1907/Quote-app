@@ -8,3 +8,6 @@ It is a jvascript app which generates random quotes for you.
 => You get a random quote back from the array of quotes.
 
 => The random function is integrated with the array so that the index which matches to the random number comes on your screen as a quote.
+
+
+<a href="https://mjquotes.netlify.com">Live Demo </a>
