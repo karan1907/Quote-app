@@ -78,6 +78,15 @@ body {
     outline: none;
   }
   
+  .author{
+      position: fixed;
+      bottom: 10px;
+      left: 40%;
+      font-weight: bold;
+      text-decoration: none;
+      color: #fff;
+  }
+
   @media (max-width: 420px) {
     .quote {
       font-size: 2.5rem;
@@ -87,9 +96,5 @@ body {
     }
     .source {
       font-size: 1rem;
-    }
-    .loadQuote{
-        position: fixed;
-        bottom: 20px;
     }
   }
